@@ -1,0 +1,25 @@
+# Editor files
+.idea/
+*.swp
+*.swo
+*.DS_Store
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Docker files (if used)
+.docker/
+docker-compose.override.yml
+
+# System/OS-specific
+Thumbs.db
+.DS_Store
+Icon?
+ehthumbs.db
+
+# model files
+*.onnx
+*.mlmodel
